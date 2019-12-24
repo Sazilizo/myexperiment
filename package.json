@@ -1,0 +1,16 @@
+{
+    "name": "experiments",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d deploy"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://Sazilizo.github.io/myexperiment",
+    "dependencies": {
+        "gh-pages": "^2.1.1"
+    }
+}
